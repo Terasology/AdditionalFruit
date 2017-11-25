@@ -1,0 +1,23 @@
+{
+  "BushDefinition": {
+    "growthStages": {
+      "AdditionalFruits:YoungBlueberryBush:engine:halfblock": {
+        "minTime": 5000,
+        "maxTime": 10000
+      },
+      "AdditionalFruits:YoungBlueberryBush": {
+        "minTime": 7000,
+        "maxTime": 14000
+      },
+      "AdditionalFruits:MatureBlueberryBush": {
+        "minTime": 7000,
+        "maxTime": 14000
+      },
+      "AdditionalFruits:FruitingBlueberryBush": {
+        "minTime": 7000,
+        "maxTime": 14000
+      }
+    },
+    "produce": "AdditionalFruits:Blueberry"
+  }
+}
