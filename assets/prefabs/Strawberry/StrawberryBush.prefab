@@ -1,23 +1,23 @@
 {
   "BushDefinition": {
     "growthStages": {
-      "SimpleFarming:YoungStrawberryBush:engine:halfblock": {
+      "AdditionalFruits:YoungStrawberryBush:engine:halfblock": {
         "minTime": 5000,
         "maxTime": 10000
       },
-      "SimpleFarming:YoungStrawberryBush": {
+      "AdditionalFruits:YoungStrawberryBush": {
         "minTime": 5000,
         "maxTime": 10000
       },
-      "SimpleFarming:MatureStrawberryBush": {
+      "AdditionalFruits:MatureStrawberryBush": {
         "minTime": 5000,
         "maxTime": 10000
       },
-      "SimpleFarming:FruitingStrawberryBush": {
+      "AdditionalFruits:FruitingStrawberryBush": {
         "minTime": 5000,
         "maxTime": 10000
       }
     },
-    "produce": "SimpleFarming:Strawberry"
+    "produce": "AdditionalFruits:Strawberry"
   }
 }
