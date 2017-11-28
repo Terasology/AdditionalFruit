@@ -1,5 +1,5 @@
 {
-  "basedOn": "SimpleFarming:BaseBush",
+  "basedOn": "AdditionalFruits:BaseBush",
   "displayName": "Fruiting Strawberry Bush",
-  "tile": "SimpleFarming:FruitingStrawberryBush"
+  "tile": "AdditionalFruits:FruitingStrawberryBush"
 }
