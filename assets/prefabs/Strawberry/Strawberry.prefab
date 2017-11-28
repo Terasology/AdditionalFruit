@@ -4,10 +4,10 @@
     "name": "Strawberry"
   },
   "Item": {
-    "icon": "SimpleFarming:strawberry",
+    "icon": "AdditionalFruits:strawberry",
     "stackId": "Strawberry"
   },
   "SeedDefinition": {
-    "prefab": "SimpleFarming:StrawberryBush"
+    "prefab": "AdditionalFruits:StrawberryBush"
   }
 }
