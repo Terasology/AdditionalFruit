@@ -1,0 +1,23 @@
+{
+  "BushDefinition": {
+    "growthStages": {
+      "AdditionalFruits:YoungStrawberryBush:engine:halfblock": {
+        "minTime": 5000,
+        "maxTime": 10000
+      },
+      "AdditionalFruits:YoungStrawberryBush": {
+        "minTime": 5000,
+        "maxTime": 10000
+      },
+      "AdditionalFruits:MatureStrawberryBush": {
+        "minTime": 5000,
+        "maxTime": 10000
+      },
+      "AdditionalFruits:FruitingStrawberryBush": {
+        "minTime": 5000,
+        "maxTime": 10000
+      }
+    },
+    "produce": "AdditionalFruits:Strawberry"
+  }
+}
