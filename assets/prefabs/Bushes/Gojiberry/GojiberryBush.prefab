@@ -1,0 +1,23 @@
+{
+  "BushDefinition": {
+    "growthStages": {
+      "AdditionalFruits:YoungGojiberryBush:engine:halfblock": {
+        "minTime": 5000,
+        "maxTime": 10000
+      },
+      "AdditionalFruits:YoungGojiberryBush": {
+        "minTime": 7000,
+        "maxTime": 10000
+      },
+      "AdditionalFruits:MatureGojiberryBush": {
+        "minTime": 5000,
+        "maxTime": 10000
+      },
+      "AdditionalFruits:FruitingGojiberryBush": {
+        "minTime": 6000,
+        "maxTime": 10000
+      }
+    },
+    "produce": "AdditionalFruits:Gojiberry"
+  }
+}

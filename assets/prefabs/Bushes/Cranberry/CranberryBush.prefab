@@ -1,0 +1,23 @@
+{
+  "BushDefinition": {
+    "growthStages": {
+      "AdditionalFruits:YoungCranberryBush:engine:halfblock": {
+        "minTime": 6000,
+        "maxTime": 12000
+      },
+      "AdditionalFruits:YoungCranberryBush": {
+        "minTime": 5000,
+        "maxTime": 10000
+      },
+      "AdditionalFruits:MatureCranberryBush": {
+        "minTime": 5000,
+        "maxTime": 10000
+      },
+      "AdditionalFruits:FruitingCranberryBush": {
+        "minTime": 5000,
+        "maxTime": 10000
+      }
+    },
+    "produce": "AdditionalFruits:Cranberry"
+  }
+}

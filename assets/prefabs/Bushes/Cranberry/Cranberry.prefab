@@ -1,0 +1,13 @@
+{
+  "parent": "engine:iconItem",
+  "DisplayName": {
+    "name": "Cranberry"
+  },
+  "Item": {
+    "icon": "AdditionalFruits:Cranberry",
+    "stackId": "cranberry"
+  },
+  "SeedDefinition": {
+    "prefab": "CranberryBush"
+  }
+}
