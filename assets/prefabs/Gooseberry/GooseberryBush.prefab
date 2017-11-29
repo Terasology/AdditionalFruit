@@ -1,0 +1,23 @@
+{
+  "BushDefinition": {
+    "growthStages": {
+      "AdditionalFruits:YoungGooseberryBush:engine:halfblock": {
+        "minTime": 5000,
+        "maxTime": 10000
+      },
+      "AdditionalFruits:YoungGooseberryBush": {
+        "minTime": 5000,
+        "maxTime": 10000
+      },
+      "AdditionalFruits:MatureGooseberryBush": {
+        "minTime": 5000,
+        "maxTime": 10000
+      },
+      "AdditionalFruits:FruitingGooseberryBush": {
+        "minTime": 5000,
+        "maxTime": 10000
+      }
+    },
+    "produce": "AdditionalFruits:Gooseberry"
+  }
+}
