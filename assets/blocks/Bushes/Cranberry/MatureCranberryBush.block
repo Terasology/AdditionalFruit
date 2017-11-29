@@ -1,0 +1,5 @@
+{
+  "basedOn": "AdditionalFruits:BaseBush",
+  "displayName": "Mature Cranberry Bush",
+  "tile": "AdditionalFruits:MatureCranberryBush"
+}
