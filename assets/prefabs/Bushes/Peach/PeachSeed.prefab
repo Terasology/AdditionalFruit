@@ -1,0 +1,33 @@
+{
+  "parent": "engine:iconItem",
+  "DisplayName": {
+    "name": "Peach Seed"
+  },
+  "Item": {
+    "icon": "AdditionalFruits:PeachSeed",
+    "stackId": "PeachSeed"
+  },
+  "SeedDefinition": {},
+  "BushDefinition": {
+    "growthStages": {
+      "AdditionalFruits:YoungPeachBush:engine:halfblock": {
+        "minTime": 1000,
+        "maxTime": 2500
+      },
+      "AdditionalFruits:YoungPeachBush": {
+        "minTime": 5000,
+        "maxTime": 5000
+      },
+      "AdditionalFruits:MaturePeachBush": {
+        "minTime": 5000,
+        "maxTime": 5000
+      },
+      "AdditionalFruits:FruitingPeachBush": {
+        "minTime": 6000,
+        "maxTime": 10000
+      }
+    },
+    "seed": "AdditionalFruits:PeachSeed",
+    "produce": "AdditionalFruits:Peach"
+  }
+}
