@@ -1,0 +1,23 @@
+{
+  "BushDefinition": {
+    "growthStages": {
+      "AdditionalFruits:YoungRaspberryBush:engine:halfblock": {
+        "minTime": 5000,
+        "maxTime": 10000
+      },
+      "AdditionalFruits:YoungRaspberryBush": {
+        "minTime": 6000,
+        "maxTime": 12000
+      },
+      "AdditionalFruits:MatureRaspberryBush": {
+        "minTime": 6000,
+        "maxTime": 12000
+      },
+      "AdditionalFruits:FruitingRaspberryBush": {
+        "minTime": 6000,
+        "maxTime": 12000
+      }
+    },
+    "produce": "AdditionalFruits:Raspberry"
+  }
+}
