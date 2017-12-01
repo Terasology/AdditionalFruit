@@ -1,0 +1,24 @@
+{
+  "BushDefinition": {
+    "growthStages": {
+      "AdditionalFruits:YoungPassionfruitBud:engine:halfblock": {
+        "minTime": 2000,
+        "maxTime": 2500
+      },
+      "AdditionalFruits:YoungPassionfruitBud": {
+        "minTime": 1000,
+        "maxTime": 5000
+      },
+      "AdditionalFruits:MaturePassionfruitBud": {
+        "minTime": 1000,
+        "maxTime": 5000
+      },
+      "AdditionalFruits:FruitingPassionfruitBud": {
+        "minTime": 5000,
+        "maxTime": 12000
+      }
+    },
+    "seed": "AdditionalFruits:PassionfruitSeed",
+    "produce": "AdditionalFruits:Passionfruit"
+  }
+}

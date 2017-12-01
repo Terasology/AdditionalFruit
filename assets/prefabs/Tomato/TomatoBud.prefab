@@ -1,0 +1,24 @@
+{
+  "BushDefinition": {
+    "growthStages": {
+      "AdditionalFruits:YoungTomatoBud:engine:halfblock": {
+        "minTime": 1000,
+        "maxTime": 5000
+      },
+      "AdditionalFruits:YoungTomatoBud": {
+        "minTime": 2000,
+        "maxTime": 2500
+      },
+      "AdditionalFruits:MatureTomatoBud": {
+        "minTime": 2500,
+        "maxTime": 6000
+      },
+      "AdditionalFruits:FruitingTomatoBud": {
+        "minTime": 5000,
+        "maxTime": 12000
+      }
+    },
+    "seed": "AdditionalFruits:TomatoSeed",
+    "produce": "AdditionalFruits:Tomato"
+  }
+}

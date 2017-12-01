@@ -1,0 +1,17 @@
+{
+  "parent": "engine:iconItem",
+  "DisplayName": {
+    "name": "Passionfruit Seed"
+  },
+  "Item": {
+    "icon": "AdditionalFruits:PassionfruitSeed",
+    "stackId": "Passionfruit Seed"
+  },
+  "SeedDefinition": {},
+  "VineDefinition": {
+    "stem": "AdditionalFruits:PassionfruitVineStem",
+    "bud": "AdditionalFruits:PassionfruitBud",
+    "minGrowTime": 4000,
+    "maxGrowTime": 7000
+  }
+}
