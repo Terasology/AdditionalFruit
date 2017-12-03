@@ -1,0 +1,29 @@
+{
+  "parent": "engine:iconItem",
+  "DisplayName": {
+    "name": "Pineapple Seed"
+  },
+  "Item": {
+    "icon": "AdditionalFruits:PineappleSeed",
+    "stackId": "PineappleSeed"
+  },
+  "SeedDefinition": {},
+  "BushDefinition": {
+    "growthStages": {
+      "AdditionalFruits:YoungPineappleBush": {
+        "minTime": 4000,
+        "maxTime": 6000
+      },
+      "AdditionalFruits:MaturePineappleBush": {
+        "minTime": 5000,
+        "maxTime": 8000
+      },
+      "AdditionalFruits:FruitingPineappleBush": {
+        "minTime": 4000,
+        "maxTime": 7000
+      }
+    },
+    "seed": "AdditionalFruits:PineappleSeed",
+    "produce": "AdditionalFruits:Pineapple"
+  }
+}
