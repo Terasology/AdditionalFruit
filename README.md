@@ -1,5 +1,5 @@
 # AdditionalFruits
-A set of fruits that grow using the SimpleFarming module. For more information, check out the [SimpleFarming Module](https://github.com/Terasology/SimpleFarming).
+A set of plants that grow using the SimpleFarming module. This module contains fruits; more plants are contained in the CommonEdibleFlora and [AdditionalVegetables](https://github.com/Terasology/AdditionalVegetables) modules. For more information, check out the [SimpleFarming Module](https://github.com/Terasology/SimpleFarming).
 
 ## Contains:
  * Blueberry
@@ -15,8 +15,7 @@ A set of fruits that grow using the SimpleFarming module. For more information, 
  * Strawberry
  * Tomato
 
-### To be added:
- * Watermelon
+To add another fruit, fork the repository, make the changes, and submit a pull request. For instructions on how to add fruits look at the readme in SimpleFarming. Make sure that anything you add is a fruit, though!
 
 ## Credits for Images:
  * Blueberry: Made by TheJYKoder (Original)
