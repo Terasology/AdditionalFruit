@@ -1,0 +1,17 @@
+{
+  "parent": "engine:iconItem",
+  "DisplayName": {
+    "name": "Melon Seed"
+  },
+  "Item": {
+    "icon": "AdditionalFruits:MelonSeed",
+    "stackId": "Melon Seed"
+  },
+  "SeedDefinition": {},
+  "VineDefinition": {
+    "stem": "AdditionalFruits:MelonVineStem",
+    "bud": "AdditionalFruits:MelonBud",
+    "minGrowTime": 4000,
+    "maxGrowTime": 7000
+  }
+}

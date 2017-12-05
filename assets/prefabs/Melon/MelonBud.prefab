@@ -1,0 +1,24 @@
+{
+  "BushDefinition": {
+    "growthStages": {
+      "AdditionalFruits:YoungMelonBud:engine:halfblock": {
+        "minTime": 2000,
+        "maxTime": 2500
+      },
+      "AdditionalFruits:YoungMelonBud": {
+        "minTime": 2000,
+        "maxTime": 2500
+      },
+      "AdditionalFruits:MatureMelonBud": {
+        "minTime": 2000,
+        "maxTime": 2500
+      },
+      "AdditionalFruits:FruitingMelonBud": {
+        "minTime": 5000,
+        "maxTime": 12000
+      }
+    },
+    "seed": "AdditionalFruits:MelonSeed",
+    "produce": "AdditionalFruits:Melon"
+  }
+}
