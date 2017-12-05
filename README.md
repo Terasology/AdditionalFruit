@@ -1,5 +1,5 @@
 # AdditionalFruits
-A set of fruits that grow using the SimpleFarming module.
+A set of fruits that grow using the SimpleFarming module. For more information, check out the [SimpleFarming Module](https://github.com/Terasology/SimpleFarming).
 
 ## Contains:
  * Blueberry
@@ -46,5 +46,3 @@ A set of fruits that grow using the SimpleFarming module.
  * GuavaSeed : https://pixabay.com/en/seeds-shells-yellow-foods-nuts-576562/ (Resized)
  * GuavaBush : https://pixabay.com/en/apple-branch-deciduous-fruit-1300027/ (Resized)
  * GuavaBushFull : https://pixabay.com/en/apple-branch-deciduous-fruit-1300027/ (Resized) (Edited by Jay)
- 
- For more information, check out the [SimpleFarming Module](https://github.com/Terasology/SimpleFarming).
