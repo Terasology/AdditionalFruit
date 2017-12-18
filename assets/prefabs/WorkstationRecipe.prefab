@@ -1,0 +1,17 @@
+{
+  "ListRecipes": {
+    "categories": [
+      "InHand",
+      "Seed"
+    ],
+    "recipes": {
+      "CommonEdibleFlora:SeedWorkstation": {
+        "inputs": {
+          "Seed": 2,
+          "Wood": 4
+        },
+        "outputCount": 1
+      }
+    }
+  }
+}
