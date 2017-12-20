@@ -6,5 +6,8 @@
   "Item": {
     "icon": "AdditionalFruits:Guava",
     "stackId": "Guava"
+  },
+  "SeedDefinition": {
+    "prefab": "AdditionalFruits:GuavaBush"
   }
 }

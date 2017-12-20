@@ -1,13 +1,4 @@
 {
-  "parent": "engine:iconItem",
-  "DisplayName": {
-    "name": "Guava Seed"
-  },
-  "Item": {
-    "icon": "AdditionalFruits:GuavaSeed",
-    "stackId": "GuavaSeed"
-  },
-  "SeedDefinition": {},
   "BushDefinition": {
     "growthStages": {
       "AdditionalFruits:YoungGuavaBush:engine:halfblock": {
@@ -27,7 +18,6 @@
         "maxTime": 20000
       }
     },
-    "produce": "AdditionalFruits:Guava",
-    "seed": "AdditionalFruits:GuavaSeed"
+    "produce": "AdditionalFruits:Guava"
   }
 }

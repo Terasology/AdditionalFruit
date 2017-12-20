@@ -7,5 +7,12 @@
   },
   "DisplayName": {
     "name": "Melon"
+  },
+  "SeedDefinition": {},
+  "VineDefinition": {
+    "stem": "AdditionalFruits:MelonVineStem",
+    "bud": "AdditionalFruits:MelonBud",
+    "minGrowTime": 4000,
+    "maxGrowTime": 7000
   }
 }

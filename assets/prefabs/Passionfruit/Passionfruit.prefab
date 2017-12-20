@@ -7,5 +7,12 @@
   },
   "DisplayName": {
     "name": "Passionfruit"
+  },
+  "SeedDefinition": {},
+  "VineDefinition": {
+    "stem": "AdditionalFruits:PassionfruitVineStem",
+    "bud": "AdditionalFruits:PassionfruitBud",
+    "minGrowTime": 4000,
+    "maxGrowTime": 7000
   }
 }

@@ -1,13 +1,4 @@
 {
-  "parent": "engine:iconItem",
-  "DisplayName": {
-    "name": "Peach Seed"
-  },
-  "Item": {
-    "icon": "AdditionalFruits:PeachSeed",
-    "stackId": "PeachSeed"
-  },
-  "SeedDefinition": {},
   "BushDefinition": {
     "growthStages": {
       "AdditionalFruits:YoungPeachBush:engine:halfblock": {
@@ -27,7 +18,6 @@
         "maxTime": 10000
       }
     },
-    "seed": "AdditionalFruits:PeachSeed",
     "produce": "AdditionalFruits:Peach"
   }
 }

@@ -6,5 +6,6 @@
   "Item": {
     "icon": "AdditionalFruits:Peach",
     "stackId": "peach"
-  }
+  },
+  "SeedDefinition": {}
 }

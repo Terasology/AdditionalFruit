@@ -6,5 +6,8 @@
   "Item": {
     "icon": "AdditionalFruits:Pineapple",
     "stackId": "Pineapple"
+  },
+  "SeedDefinition": {
+    "prefab": "AdditionalFruits:PineappleBush"
   }
 }

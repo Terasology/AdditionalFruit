@@ -18,7 +18,6 @@
         "maxTime": 12000
       }
     },
-    "seed": "AdditionalFruits:MelonSeed",
     "produce": "AdditionalFruits:Melon"
   }
 }

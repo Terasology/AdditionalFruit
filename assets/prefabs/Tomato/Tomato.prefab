@@ -24,5 +24,12 @@
       "Occasionally enjoyed on itself as a snack.",
       "Restores 1 food and 1 water."
     ]
+  },
+  "SeedDefinition": {},
+  "VineDefinition": {
+    "stem": "AdditionalFruits:TomatoVineStem",
+    "bud": "AdditionalFruits:TomatoBud",
+    "minGrowTime": 4000,
+    "maxGrowTime": 7000
   }
 }
