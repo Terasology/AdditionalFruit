@@ -4,6 +4,90 @@
       "Seeds"
     ],
     "recipes": {
+      "AdditionalFruits:Blueberry": {
+        "inputs": {
+          "Banana": 1,
+          "Blackberry": 1
+        },
+        "outputCount": 1
+      },
+      "AdditionalFruits:Cranberry": {
+        "inputs": {
+          "Starfruit": 1,
+          "Blackberry": 1
+        },
+        "outputCount": 1
+      },
+      "AdditionalFruits:Gojiberry": {
+        "inputs": {
+          "Blackberry": 1,
+          "Cherry": 1
+        },
+        "outputCount": 1
+      },
+      "AdditionalFruits:Gooseberry": {
+        "inputs": {
+          "Grape": 1,
+          "Starfruit": 1
+        },
+        "outputCount": 1
+      },
+      "AdditionalFruits:Guava": {
+        "inputs": {
+          "Grape": 1,
+          "Banana": 1
+        },
+        "outputCount": 1
+      },
+      "AdditionalFruits:Passionfruit": {
+        "inputs": {
+          "Cherry": 1,
+          "Banana": 1
+        },
+        "outputCount": 1
+      },
+      "AdditionalFruits:Melon": {
+        "inputs": {
+          "Gooseberry": 1,
+          "Cranberry": 1
+        },
+        "outputCount": 1
+      },
+      "AdditionalFruits:Peach": {
+        "inputs": {
+          "Gojiberry": 1,
+          "Gooseberry": 1
+        },
+        "outputCount": 1
+      },
+      "AdditionalFruits:Pineapple": {
+        "inputs": {
+          "Gooseberry": 1,
+          "Cranberry": 1
+        },
+        "outputCount": 1
+      },
+      "AdditionalFruits:Raspberry": {
+        "inputs": {
+          "Gojiberry": 1,
+          "Cranberry": 1
+        },
+        "outputCount": 1
+      },
+      "AdditionalFruits:Strawberry": {
+        "inputs": {
+          "Passionfruit": 1,
+          "Cranberry": 1
+        },
+        "outputCount": 1
+      },
+      "AdditionalFruits:Tomato": {
+        "inputs": {
+          "Passionfruit": 1,
+          "Guava": 1
+        },
+        "outputCount": 1
+      }
     }
   }
 }

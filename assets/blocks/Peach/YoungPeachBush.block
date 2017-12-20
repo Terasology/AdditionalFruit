@@ -1,5 +1,5 @@
 {
   "basedOn": "AdditionalFruits:BaseBush",
   "displayName": "Young Peach Bush",
-  "tile":"AdditionalFruits:YoungPeachBush"
+  "tile": "AdditionalFruits:YoungPeachBush"
 }
