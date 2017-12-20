@@ -3,19 +3,11 @@
     "version" : "0.1.0-SNAPSHOT",
     "author" : "jellysnake",
     "displayName" : "AdditionalFruits",
-    "description" : "Adds a number of edible fruits that are grown using SimpleFarming",
+    "description" : "A fruit expansion pack for CommonEdibleFlora",
     "dependencies" : [
 		{
-			"id" : "SimpleFarming",
-			"minVersion" : "2.0.0"
-        },
-		{
-			"id" : "Hunger",
-			"minVersion" : "1.0.0"
-		},
-		{
-			"id" : "Thirst",
-			"minVersion" : "1.0.0"
-		}],
+			"id" : "CommonEdibleFlora",
+			"minVersion" : "0.1.0"
+        }],
     "serverSideOnly" : false
 }
