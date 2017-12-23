@@ -5,7 +5,7 @@
       "Seed"
     ],
     "recipes": {
-      "CommonEdibleFlora:SeedWorkstation": {
+      "EdibleFlora:SeedWorkstation": {
         "inputs": {
           "Seed": 2,
           "Wood": 4
