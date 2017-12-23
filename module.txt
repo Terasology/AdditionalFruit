@@ -3,10 +3,10 @@
     "version" : "0.1.0-SNAPSHOT",
     "author" : "jellysnake",
     "displayName" : "AdditionalFruits",
-    "description" : "A fruit expansion pack for CommonEdibleFlora",
+    "description" : "A fruit expansion pack for EdibleFlora",
     "dependencies" : [
 		{
-			"id" : "CommonEdibleFlora",
+			"id" : "EdibleFlora",
 			"minVersion" : "0.1.0"
         }],
     "serverSideOnly" : false
