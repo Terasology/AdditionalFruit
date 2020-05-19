@@ -5,8 +5,8 @@
     "displayName": "AdditionalFruits",
     "description": "A fruit expansion pack for EdibleFlora",
     "dependencies": [
-		{ "id": "EdibleFlora", "minVersion": "0.1.0" }
-	],
+        { "id": "EdibleFlora", "minVersion": "1.0.0" }
+    ],
     "serverSideOnly": false,
     "isAsset": true
 }
