@@ -5,7 +5,14 @@
   },
   "Item": {
     "icon": "AdditionalFruits:Pineapple",
-    "stackId": "Pineapple"
+    "stackId": "Pineapple",
+    "consumedOnUse": true
+  },
+  "Food": {
+    "filling": 3.5
+  },
+  "Drink": {
+    "filling": 1
   },
   "SeedDefinition": {
     "prefab": "AdditionalFruits:PineappleBush"

@@ -12,10 +12,10 @@
     "type": "AdditionalFruits:Tomato"
   },
   "Food": {
-    "filling": 1
+    "filling": 1.5
   },
   "Drink": {
-    "filling": 1
+    "filling": 0.5
   },
   "ItemHelp": {
     "category": "Edible Flora",
