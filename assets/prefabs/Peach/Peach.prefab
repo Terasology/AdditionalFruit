@@ -5,7 +5,7 @@
   },
   "Item": {
     "icon": "AdditionalFruits:Peach",
-    "stackId": "peach",
+    "stackId": "AdditionalFruits:Peach",
     "consumedOnUse": true
   },
   "Food": {

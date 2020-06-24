@@ -5,7 +5,7 @@
   },
   "Item": {
     "icon": "AdditionalFruits:Pineapple",
-    "stackId": "Pineapple",
+    "stackId": "AdditionalFruits:Pineapple",
     "consumedOnUse": true
   },
   "Food": {

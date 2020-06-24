@@ -5,7 +5,7 @@
   },
   "Item": {
     "icon": "AdditionalFruits:Cranberry",
-    "stackId": "cranberry",
+    "stackId": "AdditionalFruits:Cranberry",
     "consumedOnUse": true
   },
   "SeedDefinition": {

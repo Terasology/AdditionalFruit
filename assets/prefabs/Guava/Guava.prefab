@@ -5,7 +5,7 @@
   },
   "Item": {
     "icon": "AdditionalFruits:Guava",
-    "stackId": "Guava",
+    "stackId": "AdditionalFruits:Guava",
     "consumedOnUse": true
   },
   "SeedDefinition": {

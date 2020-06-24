@@ -5,7 +5,7 @@
   },
   "Item": {
     "icon": "AdditionalFruits:Gojiberry",
-    "stackId": "Gojiberry",
+    "stackId": "AdditionalFruits:Gojiberry",
     "consumedOnUse": true
   },
   "SeedDefinition": {
