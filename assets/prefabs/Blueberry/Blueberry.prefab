@@ -5,9 +5,16 @@
   },
   "Item": {
     "icon": "AdditionalFruits:Blueberry",
-    "stackId": "AdditionalFruits:Blueberry"
+    "stackId": "AdditionalFruits:Blueberry",
+    "consumedOnUse": true
   },
   "SeedDefinition": {
     "prefab": "AdditionalFruits:BlueberryBush"
+  },
+  "Food": {
+    "filling": 2
+  },
+  "Drink": {
+    "filling": 1
   }
 }

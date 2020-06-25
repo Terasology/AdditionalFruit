@@ -5,9 +5,16 @@
   },
   "Item": {
     "icon": "AdditionalFruits:Gooseberry",
-    "stackId": "Gooseberry"
+    "stackId": "AdditionalFruits:Gooseberry",
+    "consumedOnUse": true
   },
   "SeedDefinition": {
     "prefab": "AdditionalFruits:GooseberryBush"
+  },
+  "Food": {
+    "filling": 2
+  },
+  "Drink": {
+    "filling": 1
   }
 }

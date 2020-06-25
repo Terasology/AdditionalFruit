@@ -5,9 +5,16 @@
   },
   "Item": {
     "icon": "AdditionalFruits:Cranberry",
-    "stackId": "cranberry"
+    "stackId": "AdditionalFruits:Cranberry",
+    "consumedOnUse": true
   },
   "SeedDefinition": {
     "prefab": "CranberryBush"
+  },
+  "Food": {
+    "filling": 1.5
+  },
+  "Drink": {
+    "filling": 1.5
   }
 }

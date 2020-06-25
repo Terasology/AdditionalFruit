@@ -5,9 +5,16 @@
   },
   "Item": {
     "icon": "AdditionalFruits:Guava",
-    "stackId": "Guava"
+    "stackId": "AdditionalFruits:Guava",
+    "consumedOnUse": true
   },
   "SeedDefinition": {
     "prefab": "AdditionalFruits:GuavaBush"
+  },
+  "Food": {
+    "filling": 3
+  },
+  "Drink": {
+    "filling": 1.5
   }
 }

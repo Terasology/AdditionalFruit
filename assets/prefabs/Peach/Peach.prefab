@@ -5,7 +5,16 @@
   },
   "Item": {
     "icon": "AdditionalFruits:Peach",
-    "stackId": "peach"
+    "stackId": "AdditionalFruits:Peach",
+    "consumedOnUse": true
   },
-  "SeedDefinition": {}
+  "Food": {
+    "filling": 2.5
+  },
+  "Drink": {
+    "filling": 0.5
+  },
+  "SeedDefinition": {
+    "prefab": "AdditionalFruits:PeachBush"
+  }
 }

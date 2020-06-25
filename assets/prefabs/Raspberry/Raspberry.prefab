@@ -5,9 +5,16 @@
   },
   "Item": {
     "icon": "AdditionalFruits:Raspberry",
-    "stackId": "Raspberry"
+    "stackId": "AdditionalFruits:Raspberry",
+    "consumedOnUse": true
   },
   "SeedDefinition": {
     "prefab": "AdditionalFruits:RaspberryBush"
+  },
+  "Food": {
+    "filling": 2
+  },
+  "Drink": {
+    "filling": 1
   }
 }

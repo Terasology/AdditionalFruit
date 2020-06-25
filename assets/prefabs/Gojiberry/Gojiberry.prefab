@@ -5,9 +5,16 @@
   },
   "Item": {
     "icon": "AdditionalFruits:Gojiberry",
-    "stackId": "Gojiberry"
+    "stackId": "AdditionalFruits:Gojiberry",
+    "consumedOnUse": true
   },
   "SeedDefinition": {
     "prefab": "GojiberryBush"
+  },
+  "Food": {
+    "filling": 2
+  },
+  "Drink": {
+    "filling": 1
   }
 }
