@@ -1,12 +1,15 @@
 {
-    "id": "AdditionalFruits",
-    "version": "1.0.0",
-    "author": "jellysnake",
-    "displayName": "AdditionalFruits",
-    "description": "A fruit expansion pack for EdibleFlora",
-    "dependencies": [
-        { "id": "EdibleFlora", "minVersion": "1.0.0" }
-    ],
-    "serverSideOnly": false,
-    "isAsset": true
+  "id": "AdditionalFruits",
+  "version": "1.1.0-SNAPSHOT",
+  "author": "jellysnake",
+  "displayName": "AdditionalFruits",
+  "description": "A fruit expansion pack for EdibleFlora",
+  "dependencies": [
+    {
+      "id": "EdibleFlora",
+      "minVersion": "1.0.0"
+    }
+  ],
+  "serverSideOnly": false,
+  "isAsset": true
 }
